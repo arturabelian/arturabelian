@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+My skills:
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=arch,neovim,git,postgres,python)](https://skillicons.dev)
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/artur-abelian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arturio.abelian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+</p>
+<br>
+
+
 <!--
 **arturabelian/arturabelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
