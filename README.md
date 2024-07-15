@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-My skills:
-<br><br>
-[![My Skills](https://skillicons.dev/icons?i=arch,neovim,git,postgres,python)](https://skillicons.dev)
+<h3 align="left">My tech stack:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,neovim,git,postgres,python" />
+  </a>
+</p>
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/artur-abelian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
