@@ -1,9 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Artur Abelian</h1>
+<h3 align="center">A passionate Data Analyst from Belarus</h3>
+<p align="center">I am captivated by how data-driven insights 📊 have revolutionized decision-making processes and transformed industries in ways previously unimaginable. Witnessing the exponential growth of data analytics inspired me to delve into this field, and my passion has only grown stronger over time. I love exploring new analytical tools and techniques 🔧 and leveraging them to uncover valuable insights and drive impactful solutions 🚀. Additionally, my interest in data analytics naturally led me to the fascinating realms of AI and machine learning 🤖, where I am constantly amazed by their potential to solve complex problems and create innovative solutions.</p>
 
 <h3 align="left">My tech stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,neovim,git,postgres,python" />
+    <img src="https://skillicons.dev/icons?i=arch,neovim,github,postgres,python,pytorch" />
   </a>
 </p>
 
