@@ -7,6 +7,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,neovim,github,postgres,python,pytorch" />
   </a>
+  <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/>
+<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
