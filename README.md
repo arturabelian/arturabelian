@@ -4,11 +4,15 @@
 
 <h3 align="left">My tech stack:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,vim,github,postgres,python,pytorch" />
-  </a>
-  <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/>
-<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/>
+  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/>
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
