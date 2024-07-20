@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Artur Abelian</h1>
+<h1 align="center">Hey!, I'm Artur Abelian</h1>
 <h3 align="center">A passionate Rust Developer and Web 3.0 Enthusiast from Belarus</h3>
 <p align="center">I am captivated by how Rust's memory safety and performance 🔒🚀 have revolutionized systems programming and empowered developers to build robust, efficient applications. Witnessing the exponential growth of the Rust ecosystem inspired me to delve into this language, and my passion has only grown stronger over time. I love exploring new libraries and frameworks 📚 and leveraging them to create powerful and secure software solutions. Additionally, my interest in Rust naturally led me to the fascinating realms of Web 3.0 and blockchain technology 🌐🔗, where I am constantly amazed by their potential to decentralize systems, enhance security, and drive innovation. Integrating Rust with AI and machine learning 🤖 opens up even more exciting possibilities for solving complex problems and building the future of technology.</p>
 
