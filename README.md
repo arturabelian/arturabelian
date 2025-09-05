@@ -5,7 +5,7 @@
 <h3 align="left">My Tech Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bsd,vim,git,sqlite,postgres,mongodb,c" />
+    <img src="https://skillicons.dev/icons?i=bsd,vim,git,sqlite,postgres,c" />
   </a>
 </p>
 
