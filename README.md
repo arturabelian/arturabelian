@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Artur Abelian</h1>
+<h3 align="center">Sofware Engineer from Belarus</h3>
+<p align="center">Driven by a boundless curiosity to uncover the unknown 🔭, I specialize in dissecting systems, unraveling their inner workings, and exploring possibilities through reverse engineering 🛠️. The challenge of solving complex puzzles and delving into uncharted technological territories fuels my passion for understanding and innovation. Constantly learning and evolving, I enjoy staying at the forefront of advancements in artificial intelligence 🤖. With a sharp analytical mindset and an unwavering drive for exploration, I’m thrilled to tackle intricate challenges, push boundaries, and venture beyond the limits of reason 🧠.</p>
 
-<!--
-**arturabelian/arturabelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">My Tech Stack:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bsd,vim,git,c,sqlite,postgres" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/artur-abelian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturabelian" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arturio.abelian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arturio.abelian" height="30" width="40" /></a>
+</p>
